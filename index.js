@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 require("dotenv").config()
 
-
+// make intets
 const client = new Discord.Client({
     intents: [
        "GUILDS", 
